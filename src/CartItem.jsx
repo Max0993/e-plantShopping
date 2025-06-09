@@ -6,6 +6,8 @@ import './CartItem.css';
 const CartItem = ({ onContinueShopping }) => {
   const cart = useSelector(state => state.cart.items);
   const dispatch = useDispatch();
+  
+
 
   // 🧮 Calcule le coût total du panier
   const calculateTotalAmount = () => {
