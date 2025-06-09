@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://github.com/Max0993/e-plantShopping.git",
+  "homepage": "https://YOUR_USERNAME.github.io/YOUR_REPO",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
